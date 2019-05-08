@@ -1,0 +1,67 @@
+.container {
+    position: relative !important;
+    text-align: center !important;
+    color: black !important;
+	
+	
+}
+
+
+.course1 {
+    position: absolute !important;
+	top: 150px !important;
+    left: 570px !important;
+	width:350px !important;
+    transform: translate(-50%, -50%) !important;
+	font-family: winsoft-pro-bold !important;
+	font-size:25px !important;
+}
+.partner1 {
+
+    position: absolute !important;
+    top: 350px !important;
+    left: 620px !important;
+    transform: translate(-50%, -50%) !important;
+	font-family: winsoft-pro-bold !important;
+	font-size:25px !important;
+	width:150px !important;
+}
+.course2 { 
+position: absolute !important;
+    left: 960px !important;
+    top: 150px !important;
+	width:350px !important;
+    transform: translate(-50%, -50%) !important;
+	font-family: winsoft-pro-bold !important;
+	font-size:25px !important;
+} 
+@font-face { font-family: winsoft-pro-bold !important; src: url('winsoft-pro-bold.TTF') !important; } 
+.partner2 {
+
+    position: absolute !important;
+    top: 350px !important;
+    left: 1000px !important;
+    transform: translate(-50%, -50%) !important;
+	font-family: winsoft-pro-bold !important;
+	font-size:25px !important;
+	width:150px !important;
+}
+.course3 { 
+position: absolute !important;
+    left: 190px !important;
+	top: 150px !important;
+	width:350px !important;
+    transform: translate(-50%, -50%) !important;
+	font-family: winsoft-pro-bold !important;
+	font-size:25px !important;
+} 
+.partner3 {
+
+    position: absolute !important;
+    top: 350px !important;
+    left: 220px !important;
+    transform: translate(-50%, -50%) !important;
+	font-family: winsoft-pro-bold !important;
+	font-size:25px !important;
+	width:150px !important;
+}

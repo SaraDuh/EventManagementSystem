@@ -1,0 +1,89 @@
+
+body, html {
+	
+    height: 40% !important;
+    margin: 0 !important;
+	position: absolute !important;
+	width:50% !important;
+}
+
+.bg {
+    
+    background-image: url("Certificate 33.PNG") !important;
+
+    width:1000px !important;
+    height:700px !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+	-webkit-print-color-adjust: exact !important;   
+	
+    color-adjust: exact !important;
+
+	
+}
+
+.name {
+    position: absolute !important;
+    top: 190px !important;
+	width:100px !important;
+    left: 220px !important;
+    transform: translate(-50%, -50%) !important;
+	font-size:30px !important;
+	font-family: winsoft-pro-bold !important;
+	
+	
+}
+.title {
+	position: absolute !important;
+    top: 270px !important;
+	width:150px !important;
+    left: 210px !important;
+    transform: translate(-50%, -50%) !important;
+	font-size:30px !important;
+	font-family: winsoft-pro-bold !important;
+	
+	
+	
+}
+.partner { 
+
+position: absolute !important;
+    top: 350px !important;
+	width:150px !important;
+    left: 220px !important;
+    transform: translate(-50%, -50%) !important;
+	font-size:30px !important;
+	font-family: winsoft-pro-bold !important;
+}
+.city{ 
+position: absolute !important;
+    top: 400px !important;
+	width:150px !important;
+    left: 260px !important;
+    transform: translate(-50%, -50%) !important;
+	font-size:30px !important;
+	font-family: winsoft-pro-bold !important;
+}
+
+.date{ 
+
+position: absolute !important;
+    top: 400px !important;
+	width:150px !important;
+    left: 170px !important;
+    transform: translate(-50%, -50%) !important;
+	font-size:30px !important;
+	font-family: winsoft-pro-bold !important;
+
+}
+.num{ 
+
+position: absolute !important;
+    top: 475px !important;
+	width:150px !important;
+    left: 240px !important;
+    transform: translate(-50%, -50%) !important;
+	font-size:30px !important;
+	font-family: winsoft-pro-bold !important;
+}
